@@ -1,0 +1,10 @@
+num1=4
+num2=6
+print(num1**3)
+print(num1//2)
+print(num1%2)
+print(2&4)
+print(2/4)
+print(4/2)
+print(2^4)
+print(num1+=num2)
